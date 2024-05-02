@@ -6,9 +6,9 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
-  ['94767939688', 'Dinuwa Official²⁰²³', true],
-  ['94767939688', 'Dinuwa Official²⁰²³', true], 
+global.owner = [fazii
+  ['03103815563', 'Dinuwa Official²⁰²³', true],
+  ['03103815563', 'Dinuwa Official²⁰²³', true], 
   [''] 
 ] //Number of owners
 
